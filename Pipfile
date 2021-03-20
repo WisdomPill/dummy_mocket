@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+mocket = "==3.9.40"
+
+[packages]
+channels = "==2.4.0"
+channels-redis = "==3.1.0"
+Django = "==3.1.2"
+daphne = "==2.5.0"
+django-redis = "==4.12.1"
+hiredis = "==1.1.0"
+redis = "==3.5.3"
+requests = "==2.24.0"
