@@ -7,8 +7,7 @@ verify_ssl = true
 mocket = "==3.9.40"
 
 [packages]
-Django = "==3.1.2"
-django-redis = "==4.12.1"
-hiredis = "==1.1.0"
 redis = "==3.5.3"
 requests = "==2.24.0"
+pytest = "==6.2.2"
+hiredis = "==1.1.0"
